@@ -3,7 +3,7 @@
 
 
 # Install
-* Move downloaded snippets to ~/Library/Developer/Xcode/UserData/CodeSnippets
+* Move downloaded snippets to ~/Library/Developer/Xcode/UserData/CodeSnippets (Finder -> Go -> Go to Folder... -> Paste Path -> Go)
 * Start Xcode
 
 
